@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\aiyil\Documents\GitHub\Accounting.Rest\WebAPI\bin\Release\publish\</_PublishTargetUrl>
+    <History>True|2021-09-14T17:18:08.1574169Z;True|2021-09-14T19:30:09.4749790+03:00;True|2021-09-14T19:26:35.5845794+03:00;True|2021-09-14T17:15:02.6964713+03:00;True|2021-09-14T17:14:52.4936904+03:00;True|2021-09-14T16:06:42.5489065+03:00;True|2021-09-14T13:25:41.7618141+03:00;True|2021-09-13T21:34:30.7563467+03:00;True|2021-09-13T19:39:36.0996457+03:00;True|2021-09-13T19:05:47.3660022+03:00;True|2021-07-23T22:37:58.0139600+03:00;True|2021-07-23T22:20:17.5294409+03:00;</History>
+  </PropertyGroup>
+</Project>
