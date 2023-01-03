@@ -26,3 +26,13 @@ C:\Users\Ali\Documents\GitHub\Accounting.Rest\Core\obj\Debug\netstandard2.1\Core
 C:\Users\Ali\Documents\GitHub\Accounting.Rest\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\Ali\Documents\GitHub\Accounting.Rest\Core\obj\Debug\netstandard2.1\Core.dll
 C:\Users\Ali\Documents\GitHub\Accounting.Rest\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\Ali\OneDrive\Documents\GitHub\CoreApp\Core\obj\Debug\netstandard2.1\Core.pdb
