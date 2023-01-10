@@ -4,6 +4,7 @@ using System.Text;
 using Business.Abstract;
 using Core.Entities.Concrete;
 using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 
 namespace Business.Concrete
@@ -11,6 +12,7 @@ namespace Business.Concrete
     public class UserManager:IUserService
     {
         IUserDal _userDal;
+        IUserLoginDal _userLoginDal;
 
         public UserManager(IUserDal userDal)
         {
@@ -27,9 +29,15 @@ namespace Business.Concrete
             _userDal.Add(user);
         }
 
-        public User GetByMail(string email)
+        public void AddUserLogin(UserLogin userLogin)
         {
-            return _userDal.Get(u => u.Email == email);
+            _userLoginDal.Add(userLogin);
+        }
+
+    
+        public UserLogin GetByMail(string email)
+        {
+            return _userLoginDal.Get(u => u.Email == email);
         }
     }
 }

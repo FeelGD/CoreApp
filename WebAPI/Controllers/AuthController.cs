@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using Business.Abstract;
+using Core.Dtos;
 using Entities.Dtos;
 using Microsoft.AspNetCore.Mvc;
 
@@ -42,6 +43,7 @@ namespace WebAPI.Controllers
         [HttpPost("register")]
         public ActionResult Register(UserForRegisterDto userForRegisterDto)
         {
+            //Todo user exist equal with userID check
             var userExists = _authService.UserExists(userForRegisterDto.Email);
             if (!userExists.Success)
             {

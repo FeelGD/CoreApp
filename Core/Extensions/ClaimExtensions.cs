@@ -23,7 +23,7 @@ namespace Core.Extensions
         {
             claims.Add(new Claim(ClaimTypes.NameIdentifier, nameIdentifier));
         }
-        public static void AddCompanyIdentifier(this ICollection<Claim> claims, string companyIdentifier)
+        public static void AddGroupIdentifier(this ICollection<Claim> claims, string companyIdentifier)
         {
             claims.Add(new Claim(ClaimTypes.GroupSid, companyIdentifier));
         }

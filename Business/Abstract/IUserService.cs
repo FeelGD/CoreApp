@@ -10,6 +10,7 @@ namespace Business.Abstract
     {
         List<OperationClaim> GetClaims(User user);
         void Add(User user);
-        User GetByMail(string email);
+        void AddUserLogin(UserLogin userLogin);
+        UserLogin GetByMail(string email);
     }
 }

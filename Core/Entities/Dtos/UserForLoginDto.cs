@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Core.Entities;
 
-namespace Entities.Dtos
+namespace Core.Dtos
 {
     public class UserForLoginDto:IDto
     {

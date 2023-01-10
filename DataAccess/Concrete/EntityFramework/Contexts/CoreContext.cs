@@ -19,6 +19,7 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         //ADMINISTRATOR\SQLEXPRESS
         public DbSet<OperationClaim> OperationClaims { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<UserLogin> UserLogins { get; set; }
         public DbSet<UserOperationClaim> UserOperationClaims { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Customer> Customers { get; set; }
